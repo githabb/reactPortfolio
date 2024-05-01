@@ -29,7 +29,7 @@ const projects = [
     img: project02,
     imgBig: project02Big,
     skills: 'React, PHP, MySql',
-    gitHubLink: 'https://github.com',
+    gitHubLink: 'https://githabb.github.io/portfolio/',
   },
   {
     title: 'Video portal',
