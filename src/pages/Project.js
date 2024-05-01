@@ -22,9 +22,8 @@ const Project = () => {
             <p>Skills: {project.skills}</p>
           </div>
 
-          {project.gitHubLink && (
-            <BtnGitHub link="https://stately-sfogliatella-4d79c3.netlify.app" />
-          )}
+          <BtnGitHub link={project.gitHubLink} />
+          <BtnGitHub link={project.hostLink} />
         </div>
       </div>
     </main>
