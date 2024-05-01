@@ -25,7 +25,7 @@ const projects = [
     gitHubLink: 'https://githabb.github.io/reactPortfolio/',
   },
   {
-    title: 'Video service',
+    title: 'Gidrotsikly',
     img: project02,
     imgBig: project02Big,
     skills: 'React, PHP, MySql',
