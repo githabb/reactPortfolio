@@ -58,11 +58,13 @@ const projects = [
     hostLink: 'https://githabb.github.io/portfolio/',
   },
   {
-    title: 'Gaming community',
+    title: 'REACT SNEAKERS',
     img: project06,
     imgBig: project06Big,
-    skills: 'React, PHP, MySql',
-    gitHubLink: 'https://steady-basbousa-42474a.netlify.app',
+    skills:
+      'React, React Router, React Context, react-slick, SASS / CSS Modules, Axios',
+    gitHubLink: 'https://github.com/githabb/reactSneakers.git',
+    hostLink: 'https://stately-sfogliatella-4d79c3.netlify.app',
   },
 ];
 

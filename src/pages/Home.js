@@ -9,11 +9,9 @@ const Home = () => {
           <ul className="content-list">
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
-              <p>HTML, CSS, Figma, CSS Grid, Git, VS Code</p>
-            </li>
-            <li className="content-list__item">
-              <h2 className="title-2">Backend</h2>
-              <p>JavaScript, ReactJS</p>
+              <p>
+                HTML, CSS, Figma, CSS Grid, Git, VS Code, JavaScript, ReactJS
+              </p>
             </li>
           </ul>
         </div>
