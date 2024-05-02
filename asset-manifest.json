@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/reactPortfolio/static/css/main.62ba6a90.css",
-    "main.js": "/reactPortfolio/static/js/main.f21b6c37.js",
+    "main.js": "/reactPortfolio/static/js/main.4fca572a.js",
     "static/js/787.aeca62f9.chunk.js": "/reactPortfolio/static/js/787.aeca62f9.chunk.js",
     "static/media/05-big.jpg": "/reactPortfolio/static/media/05-big.7cd8fb474b6226906455.jpg",
     "static/media/02-big.jpg": "/reactPortfolio/static/media/02-big.0a2c3b877a6ea4a2631a.jpg",
     "static/media/02.jpg": "/reactPortfolio/static/media/02.0a2c3b877a6ea4a2631a.jpg",
     "static/media/04-big.jpg": "/reactPortfolio/static/media/04-big.2e220939810c10f89e83.jpg",
     "static/media/04.jpg": "/reactPortfolio/static/media/04.2e220939810c10f89e83.jpg",
+    "static/media/resume.pdf": "/reactPortfolio/static/media/resume.95a0d36aa1faad187564.pdf",
     "static/media/06-big.jpg": "/reactPortfolio/static/media/06-big.d7dfd1eec0e24fbcbfa6.jpg",
     "static/media/01-big.jpg": "/reactPortfolio/static/media/01-big.d059a28fb5aa2def9ee1.jpg",
     "static/media/01.jpg": "/reactPortfolio/static/media/01.d059a28fb5aa2def9ee1.jpg",
@@ -23,11 +24,11 @@
     "static/media/linkedIn.svg": "/reactPortfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/reactPortfolio/index.html",
     "main.62ba6a90.css.map": "/reactPortfolio/static/css/main.62ba6a90.css.map",
-    "main.f21b6c37.js.map": "/reactPortfolio/static/js/main.f21b6c37.js.map",
+    "main.4fca572a.js.map": "/reactPortfolio/static/js/main.4fca572a.js.map",
     "787.aeca62f9.chunk.js.map": "/reactPortfolio/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62ba6a90.css",
-    "static/js/main.f21b6c37.js"
+    "static/js/main.4fca572a.js"
   ]
 }
