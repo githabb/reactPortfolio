@@ -21,7 +21,7 @@ const Footer = () => {
             </li>
           </ul>
           <div className="copyright">
-            <p>© 2024 work.yevchenko@gmail.com</p>
+            <p>© 2024 Yurii Yevchenko. Front-end Developer</p>
           </div>
         </div>
       </div>
