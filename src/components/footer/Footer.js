@@ -10,12 +10,20 @@ const Footer = () => {
         <div className="footer__wrapper">
           <ul className="social">
             <li className="social__item">
-              <a href="https://github.com/githabb">
+              <a
+                href="https://github.com/githabb"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img src={gitHub} alt="Link" />
               </a>
             </li>
             <li className="social__item">
-              <a href="https://www.linkedin.com/in/yevchenko-yurii/">
+              <a
+                href="https://www.linkedin.com/in/yevchenko-yurii/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img src={linkedIn} alt="Link" />
               </a>
             </li>
