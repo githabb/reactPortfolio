@@ -1,11 +1,11 @@
-import gitHubIcon from './gitHosting-black.svg';
+import gitHostIcon from './hosting.svg';
 import './style.css';
 
 const BtnHosting = ({ link }) => {
   return (
     <a href={link} target="_blank" rel="noreferrer" className="btn-outline">
-      <img src={gitHubIcon} alt="" />
-      Hosting repo
+      <img src={gitHostIcon} alt="" />
+      Hosting
     </a>
   );
 };
