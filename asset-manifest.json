@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactPortfolio/static/css/main.6f3fff4e.css",
-    "main.js": "/reactPortfolio/static/js/main.d069dbcc.js",
+    "main.js": "/reactPortfolio/static/js/main.86e1675f.js",
     "static/js/787.aeca62f9.chunk.js": "/reactPortfolio/static/js/787.aeca62f9.chunk.js",
     "static/media/02-big.jpg": "/reactPortfolio/static/media/02-big.0a2c3b877a6ea4a2631a.jpg",
     "static/media/02.jpg": "/reactPortfolio/static/media/02.0a2c3b877a6ea4a2631a.jpg",
@@ -13,7 +13,7 @@
     "static/media/04.jpg": "/reactPortfolio/static/media/04.2e220939810c10f89e83.jpg",
     "static/media/08-big.jpg": "/reactPortfolio/static/media/08-big.4706c58331f8f4477b5a.jpg",
     "static/media/08.jpg": "/reactPortfolio/static/media/08.4706c58331f8f4477b5a.jpg",
-    "static/media/resume.pdf": "/reactPortfolio/static/media/resume.bdb3d83fa829231c5b85.pdf",
+    "static/media/resume.pdf": "/reactPortfolio/static/media/resume.929778a24e50163ae5a0.pdf",
     "static/media/01-big.jpg": "/reactPortfolio/static/media/01-big.d059a28fb5aa2def9ee1.jpg",
     "static/media/01.jpg": "/reactPortfolio/static/media/01.d059a28fb5aa2def9ee1.jpg",
     "static/media/03-big.jpg": "/reactPortfolio/static/media/03-big.abd56493e0eca239d671.jpg",
@@ -29,11 +29,11 @@
     "static/media/linkedIn.svg": "/reactPortfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/reactPortfolio/index.html",
     "main.6f3fff4e.css.map": "/reactPortfolio/static/css/main.6f3fff4e.css.map",
-    "main.d069dbcc.js.map": "/reactPortfolio/static/js/main.d069dbcc.js.map",
+    "main.86e1675f.js.map": "/reactPortfolio/static/js/main.86e1675f.js.map",
     "787.aeca62f9.chunk.js.map": "/reactPortfolio/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f3fff4e.css",
-    "static/js/main.d069dbcc.js"
+    "static/js/main.86e1675f.js"
   ]
 }
