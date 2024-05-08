@@ -16,6 +16,12 @@ import project05Big from './../img/projects/05-big.jpg';
 import project06 from './../img/projects/06.jpg';
 import project06Big from './../img/projects/06-big.jpg';
 
+import project07 from './../img/projects/07.jpg';
+import project07Big from './../img/projects/07-big.jpg';
+
+import project08 from './../img/projects/08.jpg';
+import project08Big from './../img/projects/08-big.jpg';
+
 const projects = [
   {
     title: 'Dior',
@@ -58,13 +64,29 @@ const projects = [
     hostLink: 'https://githabb.github.io/portfolio/',
   },
   {
-    title: 'REACT SNEAKERS',
+    title: 'React Sneakers',
     img: project06,
     imgBig: project06Big,
     skills:
       'React, React Router, React Context, react-slick, SASS / CSS Modules, Axios',
     gitHubLink: 'https://github.com/githabb/reactSneakers.git',
     hostLink: 'https://stately-sfogliatella-4d79c3.netlify.app',
+  },
+  {
+    title: 'Leasing From D&M ',
+    img: project07,
+    imgBig: project07Big,
+    skills: 'Html, CSS, JS',
+    gitHubLink: 'https://github.com/githabb/Leasing_web.git',
+    hostLink: 'https://githabb.github.io/Leasing_web/Leasing',
+  },
+  {
+    title: 'Cara',
+    img: project08,
+    imgBig: project08Big,
+    skills: 'Html, CSS, JS',
+    gitHubLink: 'https://github.com/githabb/Web_Cara.git',
+    hostLink: 'https://githabb.github.io/Web_Cara/',
   },
 ];
 
