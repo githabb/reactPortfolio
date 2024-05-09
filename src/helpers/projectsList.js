@@ -71,7 +71,7 @@ const projects = [
     skills:
       'React, React Router, React Context, react-slick, SASS / CSS Modules, Axios',
     gitHubLink: 'https://github.com/githabb/reactSneakers.git',
-    hostLink: 'https://stately-sfogliatella-4d79c3.netlify.app',
+    hostLink: 'https://harmonious-nasturtium-e80436.netlify.app',
   },
   {
     title: 'Leasing From D&M ',
