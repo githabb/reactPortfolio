@@ -183,6 +183,8 @@ body {
 
   box-shadow: var(--box-shadow);
   border-radius: 10px;
+  width: 865px;
+  height: 650px;
 }
 
 .project-details__desc {
