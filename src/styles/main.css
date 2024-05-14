@@ -278,6 +278,10 @@ body {
     font-size: 22px;
   }
 
+  .project-details__cover {
+    height: 350px;
+  }
+
   /* Content List */
 
   .content-list {
