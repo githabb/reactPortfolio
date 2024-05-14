@@ -52,7 +52,7 @@ const projects = [
     img: project04,
     imgBig: project04Big,
     skills:
-      'GULP, Grid, SCSS, Flex, BEM, MixItUp3, fancybox, Currently I am working on hosting of this website',
+      'GULP, Grid, SCSS, Flex, BEM, MixItUp3, fancybox, currently I am working on adaptive of this website',
     gitHubLink: 'https://github.com/githabb/gulp-furnitureCollection.git',
     hostLink: 'https://steady-basbousa-42474a.netlify.app',
   },
