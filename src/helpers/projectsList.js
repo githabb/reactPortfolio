@@ -22,6 +22,9 @@ import project07Big from './../img/projects/07-big.jpg';
 import project08 from './../img/projects/08.jpg';
 import project08Big from './../img/projects/08-big.jpg';
 
+import project09 from './../img/projects/09.jpg';
+import project09Big from './../img/projects/09-big.jpg';
+
 const projects = [
   {
     title: 'Dior',
@@ -88,6 +91,15 @@ const projects = [
     skills: 'Html, CSS, JS',
     gitHubLink: 'https://github.com/githabb/Web_Cara.git',
     hostLink: 'https://githabb.github.io/Web_Cara/',
+  },
+  {
+    title: 'React Pizza',
+    img: project09,
+    imgBig: project09Big,
+    skills:
+      'ReactJS 18, React Router v6, Axios + Fetch, React Hooks, Prettier, React Content Loader, React Pagination.',
+    gitHubLink: 'https://github.com/githabb/new-reactPizza.git',
+    hostLink: 'https://adorable-youtiao-6bad17.netlify.app',
   },
 ];
 
